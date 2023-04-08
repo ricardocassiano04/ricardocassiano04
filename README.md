@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in SQL, Spreadsheets, Linux
 
-- 🌱 I’m currently learning Development
+- 🌱 I’m currently learning Software Development
 
 - 📫 How to reach me rc.cassiano04@gmail.com
 

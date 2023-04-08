@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ricardocassiano04
 
-- 👀 I’m interested in SQL (mainly PostgreSQL and SQL Server), Spreadsheets, Linux
+- 👀 I’m interested in SQL, Spreadsheets, Linux
 
-- 🌱 I’m currently learning NoSQL, Java and Python
+- 🌱 I’m currently learning Development
 
 - 📫 How to reach me rc.cassiano04@gmail.com
 

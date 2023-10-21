@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ricardocassiano04
+- 👋 Sou @ricardocassiano04
 
-- 👀 I’m interested in SQL, Spreadsheets, Linux
+- 👀 Trabalho com PostgreSQL, Planilhas, Linux e Python.
 
-- 🌱 I’m currently learning Software Development
+- 🌱 Atualmente estou estudando Java.
 
-- 📫 How to reach me rc.cassiano04@gmail.com
+- Gosto de Filosofia e Literatura.
 
 <!---
 ricardocassiano04/ricardocassiano04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

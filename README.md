@@ -2,6 +2,8 @@
 
 - I work with PostgreSQL, Linux, Spreadsheets and Python.
 
+- I'm interested in Java, NoSQL, Ansible, Kubernetes and so on.
+
 - I like philosophy and literature.
 
 <!---

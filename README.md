@@ -1,8 +1,10 @@
-- Olá, meu nome é @ricardocassiano04
+- I am @ricardocassiano04
 
-- Trabalho com PostgreSQL, Linux, Python e planilhas.
+- I'm interesting in PostgreSQL, Linux, Python and Spreadsheets.
 
-- Gosto de ler literatura e filosofia.
+- I like to read books (mainly literature and philosophy).
+
+- Simple like that!
 
 <!---
 ricardocassiano04/ricardocassiano04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

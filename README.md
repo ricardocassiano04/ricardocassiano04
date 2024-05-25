@@ -1,10 +1,8 @@
-- I am @ricardocassiano04
+- Sou @ricardocassiano04
 
-- I'm interesting in PostgreSQL, Linux, Python and Spreadsheets.
+- Trabalho com PostgreSQL, Linux, Planilhas.
 
-- I like to read books (mainly literature and philosophy).
-
-- Simple like that!
+- Atualmente estudo Java e Python.
 
 <!---
 ricardocassiano04/ricardocassiano04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

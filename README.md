@@ -1,6 +1,6 @@
-- Sou @ricardocassiano04
+- Olá! Sou Ricardo Cassiano.
 
-- Trabalho com PostgreSQL, Linux, Planilhas.
+- Trabalho com PostgreSQL, Linux e Planilhas.
 
 - Atualmente estudo Java e Python.
 
